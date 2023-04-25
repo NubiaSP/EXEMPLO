@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/29 12:34:13.000.491,=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 23:02:47.000.843,=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/07 09:56:31.000.876,=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/11 09:26:28.000.469,=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/14 16:00:17.000.343,=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 11:40:52.000.291,=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/25 20:31:46.815,=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/25 20:32:14.523,C:\Nubia\GIT\EXEMPLO\JogoDaVelha\uJogoVelha.pas=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/25 20:32:14.523,C:\Nubia\GIT\EXEMPLO\JogoDaVelha\uJogoVelha.dfm=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/25 20:32:20.773,C:\Nubia\GIT\EXEMPLO\JogoDaVelha\projJogoVelha.dproj=C:\Users\aliss\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
