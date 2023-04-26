@@ -11,6 +11,7 @@ object Form1: TForm1
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
+  OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
   object pnlResetar: TPanel
@@ -21,6 +22,7 @@ object Form1: TForm1
     Align = alBottom
     Caption = 'Resetar'
     TabOrder = 0
+    OnClick = pnlResetarClick
     ExplicitTop = 209
     ExplicitWidth = 314
   end
@@ -45,6 +47,7 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 0
+      OnClick = ClickPNL
     end
     object pnl11: TPanel
       Left = 1
@@ -59,6 +62,7 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 1
+      OnClick = ClickPNL
     end
     object pnl12: TPanel
       Left = 66
@@ -73,6 +77,7 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 2
+      OnClick = ClickPNL
     end
   end
   object Panel1: TPanel
@@ -97,6 +102,7 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 0
+      OnClick = ClickPNL
     end
     object pnl31: TPanel
       Left = 1
@@ -111,6 +117,7 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 1
+      OnClick = ClickPNL
     end
     object pnl32: TPanel
       Left = 66
@@ -125,6 +132,7 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 2
+      OnClick = ClickPNL
     end
   end
   object Panel10: TPanel
@@ -149,6 +157,7 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 0
+      OnClick = ClickPNL
     end
     object pnl21: TPanel
       Left = 1
@@ -163,6 +172,7 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 1
+      OnClick = ClickPNL
     end
     object pnl22: TPanel
       Left = 66
@@ -177,6 +187,7 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 2
+      OnClick = ClickPNL
     end
   end
 end
